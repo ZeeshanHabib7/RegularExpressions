@@ -1,0 +1,5 @@
+Big Data: Big Data refers to humongous volumes of data that cannot be processed effectively with the traditional applications that exist. The processing of Big Data begins with the raw data that isn’t aggregated and is most often impossible to store in the memory of a single computer.
+
+A buzzword that is used to describe immense volumes of data, both unstructured and structured, Big Data inundates a business on a day-to-day basis. Big Data is something that can be used to analyze insights which can lead to better decisions and strategic business moves.
+
+The definition of Big Data, given by Gartner is, “Big data is high-volume, and high-velocity and/or high-variety information assets that demand cost-effective, innovative forms of information processing that enable enhanced insight, decision making, and process automation”.

@@ -1,0 +1,24 @@
+This code is all about Regular expressions in python
+####################################################
+What is meant by Regular Expressions in Python?
+	Ans-A regular expression (or RE) specifies a set of 
+	strings that matches it; the functions in this module 
+	let you check if a particular string matches a given 
+	regular expression (or if a given regular expression
+	matches a particular string, which comes down to the 
+	same thing). 
+Are Regular expressions can be concatenated?
+	Ans-Regular expressions can be concatenated to form 
+	new regular expressions; if A and B are both regular
+ 	expressions, then AB is also a regular expression. 
+	In general, if a string p matches A and another string 
+	pq matches B, the string pq will match AB. This holds 
+	unless A or B contain low precedence operations; boundary
+	conditions between A and B; or have numbered group
+	references. Thus, complex expressions can easily be 
+	constructed from simpler primitive expressions like 
+	the ones described here. For details of the theory 
+	and implementation of regular expressions, consult 
+	the Friedl book referenced above, or almost any textbook
+	about compiler construction.
+##########################################################################
